@@ -2,7 +2,7 @@
 
 
 strata large IMG_2226.JPG![image]
-
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/IMG_2226.JPG?raw=true)
 
 
 Frame Design:
