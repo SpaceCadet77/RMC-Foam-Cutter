@@ -1,7 +1,7 @@
 # Advanced Aircraft Design Laboratory CNC Airfoil Cutter
 
 
-strata large image.png![image]
+strata large IMG_2226.JPG![image]
 
 
 
